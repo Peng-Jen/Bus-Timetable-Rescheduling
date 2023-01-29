@@ -19,7 +19,7 @@ From **Google Form**, 112 responses
   - `sigmoid-based function` + `strictly-increasing function`
 - Constraints
 - Objective function
-- Heurustic Algorithm
+- Heuristic Algorithm
 - Benchmark
 
 ## In this Repository
